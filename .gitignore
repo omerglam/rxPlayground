@@ -1,0 +1,8 @@
+.*
+!.gitignore
+!.*.yml
+**/target/
+*.iml
+**/logs/*.log
+!.env.example
+*.db
